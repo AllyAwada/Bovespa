@@ -171,7 +171,8 @@ Refere-se à possibilidade de não conseguir vender um ativo rapidamente sem afe
 Risco Cambial: 
 Este risco surge quando os investimentos são denominados em uma moeda diferente da moeda local do investidor. Flutuações nas taxas de câmbio podem afetar negativamente o valor dos investimentos. Para mitigar esse risco, os investidores podem considerar o uso de instrumentos financeiros como contratos de futuros ou opções de câmbio.
 
-Risco de Concentração: Surge quando um investidor tem uma grande parte de seu portfólio investido em um único ativo ou classe de ativos. Diversificar os investimentos em diferentes setores, regiões geográficas e tipos de ativos pode ajudar a reduzir esse risco.
+Risco de Concentração: 
+Surge quando um investidor tem uma grande parte de seu portfólio investido em um único ativo ou classe de ativos. Diversificar os investimentos em diferentes setores, regiões geográficas e tipos de ativos pode ajudar a reduzir esse risco.
 
 Risco de Longevidade: 
 Este risco é particularmente relevante para investidores que dependem de seus investimentos para fornecer renda na aposentadoria. Ele se refere ao risco de que os investimentos possam ser esgotados antes do final da vida do investidor. Para driblar esse risco, os investidores podem considerar a inclusão de investimentos que forneçam renda estável e duradoura, como anuidades ou fundos de pensão.
